@@ -1,0 +1,13 @@
+#!/bin/bash
+while true; do
+	while true; do
+		figlet $(date '+%H:%M:%S')
+		break
+	done
+	sleep 1
+	clear
+done
+
+
+
+
