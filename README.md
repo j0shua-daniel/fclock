@@ -25,3 +25,5 @@ sudo mv fclock /usr/bin/
 Just run `fclock` to get the default clock.
 
 Run `fclock | lolcat` to get the multicolored clock.
+
+Do `ctrl+c` to stop the clock.
