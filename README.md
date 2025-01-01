@@ -5,7 +5,9 @@ A simple, fast, fuzzy clock!
 
 ![fclock-lolcat](https://github.com/j0shua-daniel/images/blob/main/fclock-lol.png?raw=true)
 
-Please watch the [video](https://asciinema.org/a/EK7473jODgOD6Sh7yJGDA8XUu).
+Please watch the [video](https://asciinema.org/a/EK7473jODgOD6Sh7yJGDA8XUu)!
+
+If there are any issues open and [issue](https://github.com/j0shua-daniel/fclock/issues)
 
 ## Install
 
