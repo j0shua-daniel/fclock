@@ -16,10 +16,8 @@ You will need `figlet` (found in most OS repos) installed.
 If you want the clock to be multicolored then you will need `lolcat` to be installed.
 
 ```
-git clone https://github.com/j0shua-daniel/fclock
-cd fclock
-chmod +x fclock
-sudo mv fclock /usr/bin/
+sudo curl -o /usr/bin/fclock https://raw.githubusercontent.com/j0shua-daniel/fclock/refs/heads/main/fclock
+sudo chmod +x /usr/bin/fclock
 ```
 
 ## Usage
